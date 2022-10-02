@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "normal,pulenta",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Noche de Fonda",
+			"maritza",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Chuncho",
+			"shaggy",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Chupeteao",
+			"matt",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekName": "Week 3"
+}

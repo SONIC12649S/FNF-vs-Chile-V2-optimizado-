@@ -1,0 +1,35 @@
+{
+	"storyName": "",
+	"difficulties": "normal,pulenta",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"asereje",
+			"miku",
+			[
+				155,
+				255,
+				253
+			]
+		],
+		[
+			"condoriku",
+			"c",
+			[
+				195,
+				40,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Miku"
+}

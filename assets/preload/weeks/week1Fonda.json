@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "mark",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Consentida",
+			"maritza",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Golazo",
+			"shaggy",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Fonda Fight",
+			"matt",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 1"
+}

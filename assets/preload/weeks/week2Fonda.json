@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "normal,pulenta",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Screwy",
+			"e",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Vipper",
+			"vipper",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"Metal Sonic",
+			"metal",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekName": "Week 2"
+}
