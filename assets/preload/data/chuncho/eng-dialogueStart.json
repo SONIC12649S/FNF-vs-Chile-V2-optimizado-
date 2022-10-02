@@ -1,0 +1,105 @@
+{
+	"dialogue": [
+		{
+			"backImage": "ViernesNochewebiando1",
+			"expression": "talk",
+			"text": "YEAH! Did you see that? I finally won!",
+			"boxState": "normal",
+			"voice": "21",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando2",
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando2",
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando3",
+			"expression": "talk",
+			"text": "Actually...",
+			"boxState": "normal",
+			"voice": "23",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando4",
+			"expression": "what",
+			"text": "Don’t ruin it for her.",
+			"boxState": "normal",
+			"voice": "24",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando5",
+			"expression": "talk",
+			"text": "So, who's going first?",
+			"boxState": "normal",
+			"voice": "25",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando6",
+			"expression": "excited",
+			"text": "Lemme handle it, baldy.",
+			"boxState": "normal",
+			"voice": "26",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "ViernesNocheWebiando7",
+			"portrait": "nadie",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "26_1",
+			"text": "I let you off easily last year, but this year, i have some bangin' tunes"
+		},
+		{
+			"backImage": "ViernesNochewebiando8",
+			"expression": "excited",
+			"text": "fuc",
+			"boxState": "normal",
+			"voice": "",
+			"portrait": "nadie",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"backImage": "ViernesNochewebiando9",
+			"expression": "pissed",
+			"text": "GET READY, M O T H E R F U C K E R",
+			"boxState": "angry",
+			"voice": "27",
+			"portrait": "nadie",
+			"speed": 0.1,
+			"sound": ""
+		}
+	],
+	"directory": "4revancha"
+}
