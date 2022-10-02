@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "screwytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "Yo, that was my choripan you dumbass"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "screwytalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"voice": "",
+			"text": "My man i'm literally starving you can't do this shit to me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "Screwytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "UGHGGH speak well dude, you know what let's drop some bars and if i wi-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "Screwytalk",
+			"boxState": "normal",
+			"expression": "excited",
+			"voice": "",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "Screwytalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "And if i win you'll give me my choripan back, and also you'll pay me a game or two on the fishing game"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"backImage": "",
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"voice": "",
+			"text": "skevedebap dap bap"
+		}
+	],
+	"directory": ""
+}
