@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "WTF",
+		"player1": "bf-minnie",
+		"player2": "minnie",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camara 360 Grados",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Chocona"
+	}
+}
