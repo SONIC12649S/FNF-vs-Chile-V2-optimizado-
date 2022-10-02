@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bgdia",
+		"player1": "bf",
+		"player2": "miku2",
+		"player3": null,
+		"events": [
+			[
+				4945.94594594595,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				10135.1351351351,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				18650,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				19945.9459459459,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28250,
+				[
+					[
+						"Hey!",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Asereje"
+	}
+}
