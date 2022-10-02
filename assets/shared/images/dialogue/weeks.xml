@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weeks.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cvmtxt0000" x="8" y="8" width="304" height="137"/>
+	<SubTexture name="cvmtxt0001" x="8" y="8" width="304" height="137"/>
+	<SubTexture name="cvmtxt0002" x="320" y="8" width="304" height="137"/>
+	<SubTexture name="cvmtxt0003" x="320" y="8" width="304" height="137"/>
+	<SubTexture name="finaltxt0000" x="632" y="8" width="275" height="94"/>
+	<SubTexture name="finaltxt0001" x="632" y="8" width="275" height="94"/>
+	<SubTexture name="finaltxt0002" x="8" y="153" width="275" height="94"/>
+	<SubTexture name="finaltxt0003" x="8" y="153" width="275" height="94"/>
+	<SubTexture name="fondatxt0000" x="291" y="153" width="277" height="91"/>
+	<SubTexture name="fondatxt0001" x="291" y="153" width="277" height="91"/>
+	<SubTexture name="fondatxt0002" x="576" y="153" width="277" height="91"/>
+	<SubTexture name="fondatxt0003" x="576" y="153" width="277" height="91"/>
+	<SubTexture name="mnntxt0000" x="861" y="153" width="117" height="67"/>
+	<SubTexture name="mnntxt0001" x="861" y="153" width="117" height="67"/>
+	<SubTexture name="mnntxt0002" x="8" y="255" width="117" height="67"/>
+	<SubTexture name="mnntxt0003" x="8" y="255" width="117" height="67"/>
+	<SubTexture name="nmctxt0000" x="133" y="255" width="255" height="128"/>
+	<SubTexture name="nmctxt0001" x="133" y="255" width="255" height="128"/>
+	<SubTexture name="nmctxt0002" x="396" y="255" width="255" height="128"/>
+	<SubTexture name="nmctxt0003" x="396" y="255" width="255" height="128"/>
+	<SubTexture name="pulentostxt0000" x="8" y="391" width="409" height="79"/>
+	<SubTexture name="pulentostxt0001" x="8" y="391" width="409" height="79"/>
+	<SubTexture name="pulentostxt0002" x="425" y="391" width="409" height="79"/>
+	<SubTexture name="pulentostxt0003" x="425" y="391" width="409" height="79"/>
+	<SubTexture name="revanchatxt0000" x="8" y="478" width="449" height="91"/>
+	<SubTexture name="revanchatxt0001" x="8" y="478" width="449" height="91"/>
+	<SubTexture name="revanchatxt0002" x="465" y="478" width="449" height="91"/>
+	<SubTexture name="revanchatxt0003" x="465" y="478" width="449" height="91"/>
+	<SubTexture name="unimarctxt0000" x="8" y="577" width="388" height="83"/>
+	<SubTexture name="unimarctxt0001" x="8" y="577" width="388" height="83"/>
+	<SubTexture name="unimarctxt0002" x="404" y="577" width="388" height="83"/>
+	<SubTexture name="unimarctxt0003" x="404" y="577" width="388" height="83"/>
+</TextureAtlas>
