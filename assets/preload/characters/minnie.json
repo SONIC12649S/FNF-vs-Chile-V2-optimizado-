@@ -3,67 +3,67 @@
 		{
 			"loop": false,
 			"offsets": [
-				-9,
-				10
+				-136,
+				-303
 			],
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Dad Sing Note LEFT"
+			"name": "Pendeja LEFT"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-30
+				-101,
+				-330
 			],
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Dad Sing Note DOWN"
+			"name": "Pendeja DOWN"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-6,
-				50
+				-147,
+				-323
 			],
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Dad Sing Note UP"
+			"name": "Pendeja UP"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				27
+				-150,
+				-339
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Pendeja RIGHT"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-130,
+				-327
 			],
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Dad idle dance"
+			"name": "Pendeja IDLE"
 		},
 		{
 			"loop": true,
 			"offsets": [
-				0,
-				0
+				-130,
+				-327
 			],
 			"anim": "idle-loop",
 			"fps": 24,
-			"name": "Dad idle dance",
+			"name": "Pendeja IDLE",
 			"indices": [
 				10,
 				11,
@@ -74,12 +74,12 @@
 		{
 			"loop": true,
 			"offsets": [
-				-9,
-				10
+				-136,
+				-303
 			],
 			"anim": "singLEFT-loop",
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"name": "Pendeja LEFT",
 			"indices": [
 				12,
 				13,
@@ -90,12 +90,12 @@
 		{
 			"loop": true,
 			"offsets": [
-				0,
-				27
+				-136,
+				-303
 			],
 			"anim": "singRIGHT-loop",
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"name": "Pendeja RIGHT",
 			"indices": [
 				15,
 				16,
@@ -106,12 +106,12 @@
 		{
 			"loop": true,
 			"offsets": [
-				-6,
-				50
+				-136,
+				-303
 			],
 			"anim": "singUP-loop",
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"name": "Pendeja UP",
 			"indices": [
 				56,
 				57,
@@ -121,21 +121,21 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/minnie/minnie_maricona",
 	"position": [
 		0,
-		0
+		20
 	],
-	"healthicon": "face",
+	"healthicon": "maraca",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		162,
-		206
+		206,
+		160,
+		251
 	],
 	"camera_position": [
-		0,
-		0
+		20,
+		320
 	],
 	"sing_duration": 6.1,
 	"scale": 1
