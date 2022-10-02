@@ -1,0 +1,30 @@
+{
+  "scoreText": ["Puntaje: ", "Fallos: ", "Rango: "],
+  "freeplayBest": "MEJOR PUNTAJE: ",
+  "diffs": ["Normal", "Pulenta"],
+  "blueballed": "Moridas: ",
+  "pauseMenuItems": [
+    "Continuar",
+    "Reiniciar cancion",
+    "Cambiar Dificultad",
+    "Salir al menu"
+  ],
+  "freeplaySpace": "Presiona ESPACIO para escuchar la canción actual / Presiona CONTROL para abrir los Ajustes De Gameplay /  presiona RESET para reiniciar tus clasificaciones.",
+  "psRatings": [
+    "tonto ql",
+    "uuu como tan malo",
+    "weon malo",
+    "aweonao",
+    "decente",
+    "ta bien",
+    "wena",
+    "pulento",
+    "wn bueno",
+    "CULIAO SECO"
+  ],
+  "practiceMode": "MODO PRACTICA",
+  "chartingMode": "MODO CHARTING",
+  "storyWeekScore": "PUNTAJE DE SEMANA:",
+
+  "langAuthor": "Traducción y sistema de lenguajes por Matriculaso"
+}
