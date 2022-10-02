@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minnie.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M I N N I E instancia 10000" x="0" y="0" width="129" height="179"/>
+	<SubTexture name="minnie instancia 10000" x="129" y="0" width="135" height="129"/>
+</TextureAtlas>
